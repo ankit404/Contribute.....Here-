@@ -30,4 +30,4 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.longestSubstring('ababbc', 2))
+    print(s.longestSubstring('ababbc', 3))
