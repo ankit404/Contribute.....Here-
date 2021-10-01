@@ -25,7 +25,7 @@ while count< round(math.log(UL-LL+1,2)):
         print("Your guess is correct the number is", guess)
         break
 if count>= round(math.log(UL-LL+1,2)):
-    print("Your chances are over!\n the correct number is",x)
+    print("Your chances are over!\n the correct number is",XXX)
 
 
 
